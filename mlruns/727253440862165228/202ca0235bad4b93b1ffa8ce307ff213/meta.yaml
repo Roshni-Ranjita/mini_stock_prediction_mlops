@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/202ca0235bad4b93b1ffa8ce307ff213/artifacts
+end_time: 1764345410721
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: 202ca0235bad4b93b1ffa8ce307ff213
+run_name: AMZN_SARIMAX_Search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345363531
+status: 3
+tags: []
+user_id: roshn

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/32ddd11f350e4b9c8dd38ea14ac4345a/artifacts
+end_time: 1764345803648
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: 32ddd11f350e4b9c8dd38ea14ac4345a
+run_name: EXAS_v8_(011)x(1015)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345797173
+status: 3
+tags: []
+user_id: roshn

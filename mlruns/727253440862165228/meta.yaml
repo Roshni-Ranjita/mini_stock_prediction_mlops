@@ -1,0 +1,6 @@
+artifact_location: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228
+creation_time: 1764345186842
+experiment_id: '727253440862165228'
+last_update_time: 1764345186842
+lifecycle_stage: active
+name: sarimax_stock_forecasting

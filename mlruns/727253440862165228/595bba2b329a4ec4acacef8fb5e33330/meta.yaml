@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/595bba2b329a4ec4acacef8fb5e33330/artifacts
+end_time: 1764345406104
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: 595bba2b329a4ec4acacef8fb5e33330
+run_name: AMZN_v8_(011)x(1015)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345403044
+status: 3
+tags: []
+user_id: roshn

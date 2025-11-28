@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/3887bc5a2d2f4d8991c671e7ebbdf872/artifacts
+end_time: 1764345436196
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: 3887bc5a2d2f4d8991c671e7ebbdf872
+run_name: GOOGL_v5_(212)x(1015)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345431262
+status: 3
+tags: []
+user_id: roshn

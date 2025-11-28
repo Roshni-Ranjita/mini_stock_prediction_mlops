@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/ccbb84a94a01402ebf20336894bb509f/artifacts
+end_time: 1764345546373
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: ccbb84a94a01402ebf20336894bb509f
+run_name: FICO_SARIMAX_Search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345502975
+status: 3
+tags: []
+user_id: roshn

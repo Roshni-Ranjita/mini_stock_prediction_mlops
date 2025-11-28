@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/7c55e01d76c144fe8203f24616ff2acf/artifacts
+end_time: 1764345520165
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: 7c55e01d76c144fe8203f24616ff2acf
+run_name: FICO_v3_(111)x(0115)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345514117
+status: 3
+tags: []
+user_id: roshn

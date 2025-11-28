@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/fbcbfa33042743d5b76f5432b949bc0a/artifacts
+end_time: 1764345562047
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: fbcbfa33042743d5b76f5432b949bc0a
+run_name: WDAY_v3_(111)x(0115)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345557542
+status: 3
+tags: []
+user_id: roshn

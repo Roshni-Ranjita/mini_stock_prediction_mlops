@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/12f6408083b74371aa225385780e038e/artifacts
+end_time: 1764345347170
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: 12f6408083b74371aa225385780e038e
+run_name: MSFT_v5_(212)x(1015)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345341005
+status: 3
+tags: []
+user_id: roshn

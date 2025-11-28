@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/7f343b8b17854623a9be9f95d7dd1b37/artifacts
+end_time: 1764345695164
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: 7f343b8b17854623a9be9f95d7dd1b37
+run_name: FUBO_v4_(212)x(1115)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345684596
+status: 3
+tags: []
+user_id: roshn

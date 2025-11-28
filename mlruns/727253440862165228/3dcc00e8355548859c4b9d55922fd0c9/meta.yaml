@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/3dcc00e8355548859c4b9d55922fd0c9/artifacts
+end_time: 1764345839651
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: 3dcc00e8355548859c4b9d55922fd0c9
+run_name: NTLA_v3_(111)x(0115)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345832168
+status: 3
+tags: []
+user_id: roshn

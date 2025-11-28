@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/950bf2766d37460f9c21dc413f3a2272/artifacts
+end_time: 1764345502884
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: 950bf2766d37460f9c21dc413f3a2272
+run_name: ALGN_SARIMAX_Search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345450799
+status: 3
+tags: []
+user_id: roshn

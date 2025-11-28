@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/2f70c0dde6a846298dbfe0ad57f60564/artifacts
+end_time: 1764345309491
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: 2f70c0dde6a846298dbfe0ad57f60564
+run_name: AAPL_v8_(011)x(1015)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345305860
+status: 3
+tags: []
+user_id: roshn

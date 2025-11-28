@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Github/mini_stock_prediction_mlops/mlruns/727253440862165228/a42c02dd266f4b5c97948f38efe4afc2/artifacts
+end_time: 1764345603771
+entry_point_name: ''
+experiment_id: '727253440862165228'
+lifecycle_stage: active
+run_id: a42c02dd266f4b5c97948f38efe4afc2
+run_name: OKTA_v3_(111)x(0115)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764345600189
+status: 3
+tags: []
+user_id: roshn
