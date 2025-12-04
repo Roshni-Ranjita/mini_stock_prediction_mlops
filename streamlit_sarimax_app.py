@@ -98,7 +98,7 @@ def log_prediction(ticker, horizon, vals):
 
 # ---------- UI ----------
 st.set_page_config(page_title="Smart Stock Forecast", layout="wide")
-st.markdown("<h1 style='margin-bottom:0'>🧠 Smart Stock Dashboard</h1><small>Demo — educational only</small>", unsafe_allow_html=True)
+st.markdown("<h1 style='margin-bottom:0'>🧠 Smart Stock Dashboard</h1>", unsafe_allow_html=True)
 
 tickers = discover_tickers()
 if not tickers:
