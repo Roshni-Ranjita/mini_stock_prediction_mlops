@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/basusmac/Desktop/Github Repositories/mini_stock_prediction_mlops/mlruns/325212076668461988/b02fc2632fd4481fbf8c1db58b4a4494/artifacts
+end_time: 1764828603624
+entry_point_name: ''
+experiment_id: '325212076668461988'
+lifecycle_stage: active
+run_id: b02fc2632fd4481fbf8c1db58b4a4494
+run_name: daily_drift_check
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764828603332
+status: 3
+tags: []
+user_id: basusmac

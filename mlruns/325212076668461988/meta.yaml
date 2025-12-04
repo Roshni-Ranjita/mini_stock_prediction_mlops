@@ -1,0 +1,6 @@
+artifact_location: file:///Users/basusmac/Desktop/Github Repositories/mini_stock_prediction_mlops/mlruns/325212076668461988
+creation_time: 1764828126193
+experiment_id: '325212076668461988'
+last_update_time: 1764828126193
+lifecycle_stage: active
+name: drift_monitoring

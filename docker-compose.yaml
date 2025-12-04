@@ -1,0 +1,41 @@
+version: "3.9"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      # build for Apple Silicon
+      x-bake:
+        platforms:
+          - linux/arm64
+    image: smart-stock:latest
+    container_name: smart-stock
+    ports:
+      - "8501:8501"
+    environment:
+      MODELS_DIR: /app/models
+      STOCK_DIR: /app/Stock
+      LOG_DIR: /app/logs
+      MLFLOW_URI: file:/app/mlruns
+    volumes:
+      - ./models:/app/models:ro
+      - ./Stock:/app/Stock:ro
+      - ./logs:/app/logs
+      - ./mlruns:/app/mlruns
+      - ./artifacts:/app/artifacts
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 5s
+      start_period: 20s
+    restart: unless-stopped
+
+  mlflow-ui:
+    image: ghcr.io/mlflow/mlflow:latest
+    container_name: mlflow-ui
+    command: mlflow ui --host 0.0.0.0 --port 5000 --backend-store-uri file:/mlruns
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./mlruns:/mlruns
+    restart: unless-stopped
